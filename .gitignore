@@ -1,0 +1,39 @@
+# Java and Spring Boot .gitignore
+
+# Maven
+*.log
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IDE Files
+.idea/
+*.iml
+*.hprof
+.settings/
+.classpath
+.project
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Spring Boot specific files
+*.jar
+*.war
+
+# Docker Files
+docker-compose.yml
+Dockerfile
+
+# Environment Variables
+.env
