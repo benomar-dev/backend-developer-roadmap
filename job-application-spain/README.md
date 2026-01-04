@@ -2,6 +2,24 @@
 
 Ce guide complet vous aidera à préparer votre candidature pour un poste de développeur backend Junior Spring Boot en Espagne.
 
+---
+
+## 🔗 NOUVEAU: Guide pour Integration Developer Engineer avec Visa Sponsorship
+
+**Vous cherchez un poste d'Integration Developer Engineer avec sponsorship de visa?**
+
+➡️ **[Consultez le guide complet Integration Developer Engineer](./Integration-Developer-Engineer-Guide.md)**
+
+Ce guide spécialisé inclut:
+- 🔧 Compétences requises pour Integration Engineer (MuleSoft, Apache Camel, APIs, Kafka)
+- 🛂 Process détaillé de visa sponsorship et EU Blue Card
+- 📄 CV template spécifique avec focus sur l'intégration
+- 🏢 Liste d'entreprises qui sponsorisent les visas
+- 💰 Salaires pour Integration Engineers (€40K-€75K selon expérience)
+- 🎯 Questions d'entretien techniques sur l'intégration
+
+---
+
 ## 📋 Table des Matières
 
 1. [Le Marché du Travail en Espagne](#le-marché-du-travail-en-espagne)
