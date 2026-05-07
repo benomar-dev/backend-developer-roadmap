@@ -29,6 +29,7 @@ backend-developer-roadmap/
 ├── phase3-devops-cloud/          # CI/CD + Docker + GCP (12-18 mois)
 ├── phase4-pratiques-avancees/    # Architecture + Tests + Agile (18-24 mois)
 ├── phase5-projets-portfolio/     # 4 projets réels (24-30 mois)
+├── job-application-spain/        # 🇪🇸 Guide candidature Junior en Espagne
 ├── ressources/                   # Livres, cours, certifications
 └── README.md                     # Ce fichier
 ```
@@ -357,6 +358,29 @@ backend-developer-roadmap/
 **📁 Dossier:** [`phase5-projets-portfolio/04-banking-app/`](./phase5-projets-portfolio/04-banking-app/)
 
 **⏱️ Durée estimée:** 6 mois (un projet par 6 semaines)
+
+---
+
+## 🇪🇸 Guide Candidature Junior en Espagne
+
+**Vous cherchez un poste Junior Spring Boot en Espagne ?**
+
+Consultez notre guide complet de candidature qui inclut :
+
+- 📋 **Informations sur le marché espagnol** : Salaires, villes tech, langues requises
+- 💼 **CV/Resume Template** : Modèle professionnel en espagnol et anglais
+- ✍️ **Lettre de motivation** : Template personnalisable bilingue
+- 🎯 **Préparation aux entretiens** : 60+ questions techniques avec réponses détaillées
+- 🔍 **Sites de recherche d'emploi** : Meilleurs sites pour postuler en Espagne
+- 💡 **Conseils pratiques** : Visa, adaptation culturelle, négociation salariale
+
+**📁 Dossier:** [`job-application-spain/`](./job-application-spain/)
+
+**🚀 Checklist rapide:**
+- [ ] CV à jour (ES/EN)
+- [ ] Portfolio GitHub avec 3-4 projets Spring Boot
+- [ ] Niveau espagnol B2 minimum
+- [ ] Préparation questions d'entretien technique
 
 ---
 
